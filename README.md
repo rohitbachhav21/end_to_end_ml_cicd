@@ -162,3 +162,7 @@ Tailwind CSS is used inline via CDN
 No Node.js or external CSS build steps required
 
 Fully compatible with virtual environments
+
+Final deployed application link
+
+http://environment-studentperformancemlops.eba-7gqpphmr.us-east-1.elasticbeanstalk.com/
